@@ -29,7 +29,7 @@ The code contains the following sections
 Logistic Regression and Random forest was run based on various hyperparameters. Random forest model is used as it has a better AUC score.
 
 ## Other Deliverables
-The blog has been written on the findings of the project. The link is: 
+The blog has been written on the findings of the project. The link is: https://medium.com/@shrivastava.tohan/playing-with-big-data-not-so-dirty-as-thought-so-bdacd9c6a3d5
 
 ## Acknowledgement
 
